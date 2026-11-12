@@ -1,0 +1,71 @@
+Add component: Footprint Not Found FP-C0805C-DN-IPC_A
+Add component: Footprint Not Found FP-C0805C-DN-IPC_A
+Add component: Footprint Not Found FP-C0805C-DN-IPC_A
+Add component: Footprint Not Found FP-TSW-102-07-G-S-MFG
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found LED3MM
+Add component: Footprint Not Found ONSC-TO-92-3-29-11
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found SW_1101M2S3CQE2
+Add component: Footprint Not Found FP-DGK0008A-IPC_A
+Added Net: Name=9V
+Added Net: Name=GND
+Added Net: Name=NetC1_1
+Added Net: Name=NetC2_1
+Added Net: Name=NetJ1_1
+Added Net: Name=NetLED1_A
+Added Net: Name=NetLED1_K
+Added Net: Name=NetLED2_A
+Added Net: Name=NetLED3_A
+Added Net: Name=NetLED4_A
+Added Net: Name=NetLED5_A
+Added Net: Name=NetLED6_A
+Added Net: Name=NetLED7_A
+Added Net: Name=NetLED8_A
+Added Net: Name=NetLED9_A
+Added Net: Name=NetLED10_A
+Added Net: Name=NetLED11_A
+Added Net: Name=NetLED12_A
+Added Net: Name=NetLED13_A
+Added Net: Name=NetLED14_A
+Added Net: Name=NetLED15_A
+Added Net: Name=NetLED16_A
+Added Net: Name=NetQ1_2
+Added Net: Name=NetR1_1
+Added Net: Name=OUT555
+Added Class: Name=LEDS
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
