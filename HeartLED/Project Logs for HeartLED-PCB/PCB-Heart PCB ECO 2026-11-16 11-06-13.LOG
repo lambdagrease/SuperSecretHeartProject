@@ -1,0 +1,284 @@
+Add component: Footprint Not Found FP-C0805C-DN-IPC_A
+Added Component: Designator=C2(CAP_PKPZ_5X11_LOW_RUB)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "50PK10MEFC5X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found FP-C0805C-DN-IPC_A
+Add component: Footprint Not Found FP-TSW-102-07-G-S-MFG
+Added Component: Designator=LED1(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED10(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED11(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED12(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED13(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED14(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED15(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED16(LED3MM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLLR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLLR4400/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found ONSC-TO-92-3-29-11
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Add component: Footprint Not Found FP-RMCF1206-IPC_C
+Added Component: Designator=SW1(CST10T2CR)
+Add component (AddParameter): Name = "Component Type"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CST10T2CR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C4949894"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay and Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CST10T2CR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found FP-DGK0008A-IPC_A
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED3_A Pin=LED3-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED4_A Pin=LED4-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED4-K
+Added Pin To Net: NetName=NetLED5_A Pin=LED5-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED5-K
+Added Pin To Net: NetName=NetLED6_A Pin=LED6-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED6-K
+Added Pin To Net: NetName=NetLED7_A Pin=LED7-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED7-K
+Added Pin To Net: NetName=NetLED8_A Pin=LED8-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED8-K
+Added Pin To Net: NetName=NetLED9_A Pin=LED9-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED9-K
+Added Pin To Net: NetName=NetLED10_A Pin=LED10-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED10-K
+Added Pin To Net: NetName=NetLED11_A Pin=LED11-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED11-K
+Added Pin To Net: NetName=NetLED12_A Pin=LED12-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED12-K
+Added Pin To Net: NetName=NetLED13_A Pin=LED13-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED13-K
+Added Pin To Net: NetName=NetLED14_A Pin=LED14-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED14-K
+Added Pin To Net: NetName=NetLED15_A Pin=LED15-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED15-K
+Added Pin To Net: NetName=NetLED16_A Pin=LED16-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED16-K
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Added Pin To Net: NetName=NetJ1_1 Pin=SW1-1
+Added Pin To Net: NetName=9V Pin=SW1-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Net: Name=NetC2_2
+Add Class Member: Failed to add class member : Component C1 0.01uF
+Added Member To Class: ClassName=LEDS Member=Component C2 50PK10MEFC5X11
+Add Class Member: Failed to add class member : Component C3 100nF
+Add Class Member: Failed to add class member : Component J1 TSW-102-07-G-S
+Added Member To Class: ClassName=LEDS Member=Component LED1 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED2 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED3 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED4 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED5 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED6 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED7 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED8 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED9 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED10 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED11 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED12 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED13 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED14 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED15 TLLR4400
+Added Member To Class: ClassName=LEDS Member=Component LED16 TLLR4400
+Add Class Member: Failed to add class member : Component Q1 BS170
+Add Class Member: Failed to add class member : Component R1 10K
+Add Class Member: Failed to add class member : Component R2 63K
+Add Class Member: Failed to add class member : Component R3 3K3
+Add Class Member: Failed to add class member : Component R4 3K3
+Add Class Member: Failed to add class member : Component R5 3K3
+Add Class Member: Failed to add class member : Component R6 3K3
+Add Class Member: Failed to add class member : Component R7 3K3
+Add Class Member: Failed to add class member : Component R8 3K3
+Add Class Member: Failed to add class member : Component R9 3K3
+Add Class Member: Failed to add class member : Component R10 3K3
+Add Class Member: Failed to add class member : Component R11 3K3
+Add Class Member: Failed to add class member : Component R12 3K3
+Add Class Member: Failed to add class member : Component R13 3K3
+Add Class Member: Failed to add class member : Component R14 3K3
+Add Class Member: Failed to add class member : Component R15 3K3
+Add Class Member: Failed to add class member : Component R16 3K3
+Add Class Member: Failed to add class member : Component R17 3K3
+Add Class Member: Failed to add class member : Component R18 3K3
+Add Class Member: Failed to add class member : Component R19 220
+Add Class Member: Failed to add class member : Component R20 100k
+Added Member To Class: ClassName=LEDS Member=Component SW1 CST10T2CR
+Add Class Member: Failed to add class member : Component U1 LMC555CMM
